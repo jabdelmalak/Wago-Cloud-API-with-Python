@@ -1,4 +1,5 @@
 # Wago-Cloud-API-with-Python
+Reference .pdf for in-depth information.
 
 Wago Cloud API with Python 
 Ex: Import/Export of an Alarm from one account to another
